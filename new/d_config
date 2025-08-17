@@ -1,0 +1,14 @@
+show = drun
+width = 500
+height = 300
+location = center
+allow_markup = true
+insensitive = true
+term = foot
+prompt = Search:
+allow_images = false
+show_icons = true
+hide_scroll = true
+no_actions = true
+columns = 1
+
