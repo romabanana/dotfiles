@@ -1,14 +1,15 @@
 show = drun
-width = 500
+width = 800
 height = 300
 location = center
 allow_markup = true
 insensitive = true
-term = foot
-prompt = Search:
-allow_images = false
+prompt = You look handsome today...
+allow_images = true
+image_size = 13px
 show_icons = true
 hide_scroll = true
 no_actions = true
-columns = 1
+columns = 1 
+dynamic_lines=true
 
