@@ -11,7 +11,7 @@
     "modules-center": ["clock"],
     "modules-right": ["pulseaudio", "memory", "cpu", "battery", "network"],
     "custom/arch":{
-      "format": "    ",
+      "format": "  :)  ",
     },
     "hyprland/workspaces": {
         "disable-scroll": true,
@@ -62,8 +62,8 @@
       },
       "format": " {icon}  {capacity}% ",
       "format-full": " {icon}  {capacity}% ",
-      "format-charging": "   {capacity}% ",
-      "format-plugged": "   {capacity}% ",
+      "format-charging": " 󰚥  {capacity}% ",
+      "format-plugged": " 󱐥  {capacity}% ",
       "format-alt": " {time} {icon} ",
       "format-icons": ["  ", "  ", "  ", "  ", "  "]
     },
