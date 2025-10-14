@@ -11,7 +11,7 @@
     "modules-center": ["clock"],
     "modules-right": ["pulseaudio", "memory", "cpu", "battery", "network"],
     "custom/arch":{
-      "format": "    ",
+      "format": "  :)  ",
     },
     "hyprland/workspaces": {
         "disable-scroll": true,
@@ -23,10 +23,10 @@
             "3": "",
             "4": "",
             "5": "",
-            "6": "󰥺",
+            "6": "",
             "urgent": "",
             "focused": "",
-            "default": "",
+            "default": "󰜀",
 	    "active": ""
         },
         "persistent-workspaces": {
@@ -37,7 +37,7 @@
       "format": "{}",
       "max-length": 45,
       "rewrite": {
-        "": "Harsh"
+        "": "Stop caring."
       },
       "separate-outputs": true,
     },
@@ -62,8 +62,8 @@
       },
       "format": " {icon}  {capacity}% ",
       "format-full": " {icon}  {capacity}% ",
-      "format-charging": "   {capacity}% ",
-      "format-plugged": "   {capacity}% ",
+      "format-charging": " 󰚥  {capacity}% ",
+      "format-plugged": " 󱐥  {capacity}% ",
       "format-alt": " {time} {icon} ",
       "format-icons": ["  ", "  ", "  ", "  ", "  "]
     },
