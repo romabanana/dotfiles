@@ -1,0 +1,35 @@
+! --- Clipboard ---
+XTerm*selectToClipboard: true
+XTerm*VT100.translations: #override \
+  Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+  Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
+
+! --- Zoom with Ctrl + mouse wheel ---
+  Ctrl <Key> minus: smaller-vt-font() \n\
+  Ctrl <Key> plus: larger-vt-font()
+
+XTerm*faceName: Terminus
+XTerm*faceSize: 12
+
+! --- Colors ---
+XTerm*foreground: #c0c0c0
+XTerm*background: #000000
+XTerm*cursorColor: #ffffff
+
+XTerm*color0:  #000000
+XTerm*color1:  #800000
+XTerm*color2:  #008000
+XTerm*color3:  #808000
+XTerm*color4:  #000080
+XTerm*color5:  #800080
+XTerm*color6:  #008080
+XTerm*color7:  #c0c0c0
+XTerm*color8:  #808080
+XTerm*color9:  #ff0000
+XTerm*color10: #00ff00
+XTerm*color11: #ffff00
+XTerm*color12: #0000ff
+XTerm*color13: #ff00ff
+XTerm*color14: #00ffff
+XTerm*color15: #ffffff
+
