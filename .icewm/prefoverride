@@ -1,0 +1,17 @@
+# Fonts  
+MenuFontNameXft="W95FA:size=12"
+TitleFontNameXft="W95FA:size=12"
+StatusFontNameXft="W95FA:size=12"
+TaskBarFontNameXft="W95FA:size=12"
+
+# Toolbar
+TaskbarButtonWidthDivisor = 7
+SmallIconSize = 16
+MenuIconSize=32
+TaskBarShowWorkspaces = 0
+TimeFormat="%a %d/%m  %H:%M    "
+
+#Set file manager. I did this to open folders form desktop   
+FileManager=pcmanfm
+
+

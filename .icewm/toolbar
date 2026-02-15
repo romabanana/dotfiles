@@ -1,0 +1,5 @@
+# Toolbar programs
+# Syntax prog prog [display_ame] [icon] [program] 
+prog Firefox webbrowser firefox
+prog Files folder pcmanfm
+prog Terminal terminal xterm
