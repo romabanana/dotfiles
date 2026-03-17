@@ -1,0 +1,41 @@
+font-family = JetBrainsMono Nerd Font
+font-size = 13
+font-thicken = true
+
+background = 000000
+foreground = ce93d8
+
+cursor-color = e040fb
+cursor-text = 0a0a0f
+cursor-style = bar
+cursor-style-blink = true
+
+selection-background = 4a148c
+selection-foreground = f3e5f5
+
+# palette — full purple remapped
+palette = 0=#0f0f17
+palette = 1=#ab47bc
+palette = 2=#7e57c2
+palette = 3=#b39ddb
+palette = 4=#8e24aa
+palette = 5=#e040fb
+palette = 6=#9c27b0
+palette = 7=#e8d5f5
+palette = 8=#2a1a4a
+palette = 9=#ce93d8
+palette = 10=#9575cd
+palette = 11=#d1c4e9
+palette = 12=#ba68c8
+palette = 13=#ea80fc
+palette = 14=#ce93d8
+palette = 15=#f3e5f5
+
+# window
+background-opacity = 0.9
+window-padding-x = 12
+window-padding-y = 10
+gtk-titlebar = false
+
+# shader
+custom-shader = ~/.config/ghostty/shaders/shader.glsl
