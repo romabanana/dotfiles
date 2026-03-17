@@ -14,4 +14,4 @@ TimeFormat="%a %d/%m  %H:%M    "
 #Set file manager. I did this to open folders form desktop   
 FileManager=pcmanfm
 
-
+ClientWindowMouseActions=0
